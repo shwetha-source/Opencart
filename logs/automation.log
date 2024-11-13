@@ -1,0 +1,12 @@
+2024-11-13 13:37:02 INFO  TC_001AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-13 13:37:02 INFO  TC_001AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-13 13:37:02 INFO  TC_001AccountRegistrationTest:25 - Clicked on Register Link.. 
+2024-11-13 13:37:02 INFO  TC_001AccountRegistrationTest:29 - Providing customer details...
+2024-11-13 13:37:13 ERROR TC_001AccountRegistrationTest:51 - Test failed
+2024-11-13 13:37:13 INFO  TC_001AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest  ****
+2024-11-13 13:41:03 INFO  TC_001AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-13 13:41:03 INFO  TC_001AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-13 13:41:04 INFO  TC_001AccountRegistrationTest:25 - Clicked on Register Link.. 
+2024-11-13 13:41:04 INFO  TC_001AccountRegistrationTest:29 - Providing customer details...
+2024-11-13 13:41:14 ERROR TC_001AccountRegistrationTest:51 - Test failed
+2024-11-13 13:41:14 INFO  TC_001AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest  ****
