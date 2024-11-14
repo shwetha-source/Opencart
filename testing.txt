@@ -1,1 +1,3 @@
 //This is sample file....
+What I am doing here is I pushed some code from local repo to remote repo and taken pull from remote repo to my local repo and doing changes and again I will
+commit my changes to local repo and then I will push my code to remote repo
